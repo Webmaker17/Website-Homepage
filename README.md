@@ -1,10 +1,31 @@
 
 <html>
+
+<head>
+<title> Website Name Here <title>
 	
-<h1> This is a start<h1>
+	
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+
+<body bgcolor="#ff471a">
+	
+</body>
 
 
 
